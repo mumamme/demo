@@ -3,3 +3,4 @@
     "runArgs": [ "--rm" ],
     "mounts": ["type=bind,src=${localEnv:HOME}/.ssh,dst=/home/parasoft/.ssh"]
 }
+
