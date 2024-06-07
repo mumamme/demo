@@ -18,7 +18,7 @@ TEST(GooTest, TestGetValueWithPositive) {
 }
 
 // 
-TEST(GooTest, TestGetValueWithPositive) {
+TEST(GooTest, TestGetValueWithA) {
   RecordProperty("cpptest_filename", __FILE__);
   RecordProperty("req", "REQ-123-A");
 
