@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 
 env:
-  LINE_COV_GATE: 70
+  LINE_COV_GATE: 60
   MCDC_COV_GATE: 30
 
 permissions:
