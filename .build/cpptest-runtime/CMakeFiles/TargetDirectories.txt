@@ -1,9 +1,0 @@
-/workspaces/demo/.build/cpptest-runtime/CMakeFiles/install/strip.dir
-/workspaces/demo/.build/cpptest-runtime/CMakeFiles/install/local.dir
-/workspaces/demo/.build/cpptest-runtime/CMakeFiles/install.dir
-/workspaces/demo/.build/cpptest-runtime/CMakeFiles/list_install_components.dir
-/workspaces/demo/.build/cpptest-runtime/CMakeFiles/rebuild_cache.dir
-/workspaces/demo/.build/cpptest-runtime/CMakeFiles/edit_cache.dir
-/workspaces/demo/.build/cpptest-runtime/CMakeFiles/cpptest_shared.dir
-/workspaces/demo/.build/cpptest-runtime/CMakeFiles/cpptest_static.dir
-/workspaces/demo/.build/cpptest-runtime/CMakeFiles/cpptest_lib.dir
